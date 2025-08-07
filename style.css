@@ -1,0 +1,40 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+.delete-btn:hover {
+    background-color: lightgray;
+    color: rgb(212, 9, 9);
+    transition: background-color
+
+}
+tbody td {
+  border: 2px solid rgb(43, 103, 233);
+}
+
+thead th {
+  border: 2px solid black;
+}
+
+tr {
+  border: 2px solid black;
+  border-collapse: separate; 
+}
+
+h1 {
+  font-size: 3.5rem;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+form{
+    background-color: rgb(240, 202, 232);
+}
+
